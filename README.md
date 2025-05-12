@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oi, eu sou a Brenda! 👋
 
-<!--
-**brendamendesw/brendamendesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Iniciante em Quality Assurance (QA), com foco em testes manuais e automação de testes.  
+📚 Atualmente estudando: Git, GitHub, testes manuais, Postman e Cypress.  
+💼 Objetivo para 2025: conseguir minha primeira vaga como QA Júnior ou Estagiária.  
+🚀 Planejo evoluir um nível por ano, buscando aprendizado contínuo e crescimento na área de QA.
 
-Here are some ideas to get you started:
+🔍 Interesses:
+- Testes manuais e exploratórios
+- Testes de API com Postman
+- Automação com Cypress (JavaScript)
+- Qualidade de software e usabilidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Meus repositórios aqui mostram meu progresso com estudos, testes simulados e projetos práticos.
+
+📫 Como me encontrar:
+- [LinkedIn](https://linkedin.com/in/brendamendesw)
+- [GitHub](https://github.com/brendamendesw)
